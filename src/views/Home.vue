@@ -1,18 +1,27 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="container">
+    <div class="media mt-4">
+      <div class="media-body m-2">
+        <h5 class="align-items-center mt-2">Links</h5>
+        <p>Hallo! Ich bin Schmaik, 14 Jahre aus Hannover. <br> Hier findest du alle meine Links!</p>
+      </div>
+    </div>
+    <div class="mt-4 ">
+      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="http://tiktok.schmaik.net"/>
+      <Link text="Instagram @derschmaik" icon="bi-instagram" href="http://instagram.schmaik.net"/>
+      <Link text="Youtube @schmaik" icon="bi-youtube" href="http://youtube.schmaik.net"/>
+      <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie" />
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import Link from '@/components/Link.vue';
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
+    Link,
   },
 };
 </script>
