@@ -8,7 +8,7 @@
     </div>
     <div class="mt-4">
       <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
-      <Link text="Mein Discordserver" icon="bi-discord" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
+      <Link text="Mein Discordserver" icon="bi-discord" href="https://discord.schmaik.net"/>
       <hr/>
       <Link text="Tiktok @schmaiiik" icon="bi-camera" href="http://tiktok.schmaik.net" class="mt-2"/>
       <Link text="Instagram @derschmaik" icon="bi-instagram" href="http://instagram.schmaik.net"/>
