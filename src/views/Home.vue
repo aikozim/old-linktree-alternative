@@ -6,11 +6,13 @@
         <p>Hallo! Ich bin Schmaik, 14 Jahre aus Hannover. <br> Hier findest du alle meine Links!</p>
       </div>
     </div>
-    <div class="mt-4 ">
-      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="http://tiktok.schmaik.net"/>
+    <div class="mt-4">
+      <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
+      <Link text="Mein Discordserver" icon="bi-discord" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
+      <hr/>
+      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="http://tiktok.schmaik.net" class="mt-2"/>
       <Link text="Instagram @derschmaik" icon="bi-instagram" href="http://instagram.schmaik.net"/>
       <Link text="Youtube @schmaik" icon="bi-youtube" href="http://youtube.schmaik.net"/>
-      <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie" />
     </div>
   </div>
 </template>
