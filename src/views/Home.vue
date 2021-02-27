@@ -8,11 +8,11 @@
     </div>
     <div class="mt-4">
       <Link text="Fly or Die" icon="bi-controller" href="https://play.google.com/store/apps/details?id=com.Schmaik.FlyorDie"/>
-      <Link text="Mein Discordserver" icon="bi-discord" href="https://discord.schmaik.net"/>
+      <Link text="Mein Discordserver" icon="bi-discord" href="https://discord.gg/gdgQGpD"/>
       <hr/>
-      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="http://tiktok.schmaik.net" class="mt-2"/>
-      <Link text="Instagram @derschmaik" icon="bi-instagram" href="http://instagram.schmaik.net"/>
-      <Link text="Youtube @schmaik" icon="bi-youtube" href="http://youtube.schmaik.net"/>
+      <Link text="Tiktok @schmaiiik" icon="bi-camera" href="https://www.tiktok.com/@schmaiiik" class="mt-2"/>
+      <Link text="Instagram @derschmaik" icon="bi-instagram" href="https://www.instagram.com/derschmaik/"/>
+      <Link text="Youtube @schmaik" icon="bi-youtube" href="https://www.youtube.com/channel/UCM7hqabymJChRgU8fUdWYxw"/>
     </div>
   </div>
 </template>
