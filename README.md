@@ -1,4 +1,4 @@
-# Vue.js Linktree Alternative
+# Vue.js linktree Alternative
 
 This is a small project I created for myself when I was 14y/o as an alternative to Linktree using Vue.js. It is (or was) deployed on Netlify and is no longer being updated.
 
